@@ -1,0 +1,11 @@
+node_modules
+dist
+.git
+.github
+.angular
+.vscode
+.idea
+supabase/.branches
+supabase/.temp
+npm-debug.log
+*.md
